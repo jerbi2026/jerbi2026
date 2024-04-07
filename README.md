@@ -1,16 +1,25 @@
-### Hi there 👋
+# 👋 Bienvenue sur mon profil GitHub !
 
-<!--
-**jerbi2026/jerbi2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# À propos de moi
+Je suis passionné par le développement logiciel, la résolution de problèmes et l'apprentissage continu. 💻
 
-Here are some ideas to get you started:
+# Compétences
+ * 🌟 Langages : Python, JavaScript, Java, Php, etc.
+ * 🛠️ Outils : Git, Docker, VS Code, etc.
+ * 📚 Frameworks : Angular, Django, Springboot, etc.
+ * 🚀 Cloud : = Azure.
+# Projets
+* 🌱 J'explore actuellement projet de conception.
+* 🔭 Je travaille sur Projet de gestion avec Php.
+* 🌟 J'ai récemment terminé le Projet HEC LIBRARY.
+# Contributions
+* 🌍 J'aime contribuer à des projets open source.
+* 💬 N'hésitez pas à me contacter pour discuter de collaborations ou de projets intéressants.
+# Contact
+* 📫 Vous pouvez me contacter par e-mail à jerbiahmed24@gmail.com .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Autres intérêts
+Quand je ne code pas, vous pouvez me trouver en train de voyager. ✈️📚🍳
+
+# Let's Connect
+N'hésitez pas à explorer mes repos et à me suivre pour rester à jour avec mes projets et contributions !
