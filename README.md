@@ -23,3 +23,8 @@ Quand je ne code pas, vous pouvez me trouver en train de voyager. ✈️📚🍳
 
 # Let's Connect
 N'hésitez pas à explorer mes repos et à me suivre pour rester à jour avec mes projets et contributions !
+
+## Nombre de vues 👁️
+<img align="left" src = "https://profile-counter.glitch.me/Jerbi_account/count.svg" alt ="Loading">
+<img src="https://t.bkit.co/w_66132cd3774c9.gif" />
+
