@@ -21,7 +21,7 @@
 
 <a href="https://www.linkedin.com/in/jerbi-ahmed-879b98258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerbi ahmed" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100077080161240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jerbi ahmed" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jerbiahmedd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed aziz mhiri" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jerbiahmedd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jerbi ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
