@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS,Node JS**
 
-- 💬 Ask me about **HTML,CSS,JAVA,ANGULAR,SPRINGBOOT,C#,C,PYTHON,SQL,POWER BI**
+- 💬 Ask me about **HTML,CSS,JAVA,ANGULAR,SPRINGBOOT,C#,C,PYTHON,PHP,SQL,POWER BI**
 
 - 📫 How to reach me **jerbiahmed24@gmail.com**
 
