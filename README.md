@@ -7,21 +7,17 @@
 
 <h3 align="center">Transforming Ideas into Functional Applications</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerbi2026&label=Profile%20views&color=0e75b6&style=flat" alt="jerbiahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerbi2026" alt="jerbiahmed" /></a> </p>
 
-- 🔭 I’m currently studying in **IHEC**
-
-- 🌱 I’m currently learning **React JS,Node JS**
+- 🔭 I’m currently studying in **IHEC Carthage**
 
 - 💬 Ask me about **HTML,CSS,JAVA,ANGULAR,SPRINGBOOT,C#,C,PYTHON,PHP,SQL,POWER BI**
 
 - 📫 How to reach me **jerbiahmed24@gmail.com**
 
-- ⚡ Fun fact **I Don't like programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,5 +35,5 @@
 <a href="#?"><img height="auto" width="443px" src ="https://github-readme-stats.vercel.app/api?username=jerbi2026&count_private=true&theme=slateorange&show_icons=true&hide_border=false&hide=&bg_color=2A2A2A&include_all_commits=true"></a>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerbi2026&" alt="jerbiahmed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerbi2026&theme=slateorange&bg_color=2A2A2A&include_all_commits=true" alt="jerbiahmed" /></p>
 
