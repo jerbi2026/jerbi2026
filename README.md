@@ -34,7 +34,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerbi2026&theme=algolia&include_all_commits=true" alt="jerbiahmed" /></p>
 
 <hr>
 
