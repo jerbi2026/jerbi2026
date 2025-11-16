@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/jerbi2026/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerbi2026&theme=algolia" alt="jerbiahmed" /></a> </p>
 
-- 🔭 I’m currently studying in **IHEC Carthage**
+- 🔭 I’m currently studying in **ENSI**
 
 - 💬 Ask me about **HTML,CSS,JAVA,ANGULAR,SPRINGBOOT,C#,C,PYTHON,PHP,SQL,POWER BI**
 
